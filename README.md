@@ -1,1 +1,1 @@
-# lnet
+# lnet est un réseau social 
